@@ -7,4 +7,6 @@ This folder contains the code and data to reproduce the figures in the paper ‘
 
 * The 'Screens' folder contains the data from the different parameter scans, as well as the scripts to run them.  
 
+To reproduce the figures, download all the code as a single zip file, extract, and run the Figure_X.py files from within the extracted folder in Spyder.
+
 Dependencies: all the code was written and tested using Spyder4. Running the code requires numpy, pandas, matplotlib, scipy, and JITCDDE. Documentation for the JITCDDE package can be found on: https://jitcde-common.readthedocs.io/en/stable/
