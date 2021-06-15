@@ -3,7 +3,7 @@ This folder contains the code and data to reproduce the figures in the paper ‘
 
 * Delay_Bistability_Analysis_Final.py contains various functions used for generating the figures (e.g. determination of period and amplitude of oscillator, definitions of the ODE systems, and functions to load the csv files containing the data from parameter scans).
 
-* Figure_X.py containes the code that produces the figures as they appear in the paper.
+* Figure_X.py contains the code that produces the figures as they appear in the paper.
 
 * The 'Screens' folder contains the data from the different parameter scans, as well as the scripts to run them.  
 
